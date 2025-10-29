@@ -35,7 +35,7 @@ O Contacts App é uma aplicação completa que permite aos usuários criar uma c
 
 ## 📞 Contato
 - Email: brenocarvs@gmail.com
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/breno-carvalho-63221b174)
-- GitHub: [@seu-usuario](https://github.com/brenimsc)
+- [LinkedIn](https://linkedin.com/in/breno-carvalho-63221b174)
+- [GitHub](https://github.com/brenimsc)
 -----
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
